@@ -1,0 +1,159 @@
+en
+
+#---------------------------------------------------------#
+
+
+hey tanya
+good morning tania
+hello tania
+good evening tania
+hello tania
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+months
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+laugh
+the day after tomorrow
+tomorrow
+very well
+Hi
+bad
+now
+yet
+I'm getting
+Wait
+How much blood sugar do you have? 35
+Okay, I'm waiting for you to take it.36
+Are you ready? 37
+Yes
+And how much do you have? 39
+Your blood sugar is a little low. Take a sugar.40
+Glad to hear.41
+Your blood sugar is a bit high. To see 20 floats.42
+Please give only one value.43
+Take your blood sugar now.44
+You have nothing planned for this day.45
+You have
+ events on this day.47
+You have an event on this day.48
+in the morning49
+afternoon50
+ to
+today
+today
+following
+upcoming
+de56
+Stone
+scissors
+paper
+What do you choose? 60
+I choose61
+Do you want to play again? 62
+not
+I enjoyed it.64
+floats65
+abdomene66
+tractions67
+Welcome to the training program.68
+make
+Say ready when you're done70
+ready
+Do you want to continue? 72
+You did: 73
+It's time for training. Do you want to do it? 74
+I understand75
+Good morning76
+Hello77
+Good evening78
+Who am I talking to?
+What language would you like to use?
+How can I help you?
+turn off the computer
+turn off the computer
+please shut down the computer
+Are you sure you want to shut down your computer?
+I will think about it
+Okay, I won't shut down the computer.87
+Goodbye, have a nice morning.88
+Goodbye, have a nice day.89
+Goodbye, have a nice evening.90
+Goodbye and good night.91
+what I have
+I have plans
+I'm busy
+what plans do i have
+what program do I have
+I could not understand, please repeat97
+remember
+write it down
+What would you like me to write down?
+I noted.101
+hang up
+stops
+The Apex104 closes
+open
+STARTS
+The Apex opens.107
+The Warframe opens.108
+call me something else
+don't tell me that anymore
+don't call me that anymore
+I'm not
+don't call me anymore
+don't call me
+my name is not
+I will remember116
+note
+You will take note118
+with nothing
+Okay, I'm here when you need me.120
+change language
+scissors stone or paper
+how you feel
+I feel good, thanks for the question.124
+who am I
+what is my name
+what's my name
+You are128
+thanks
+With pleasure130
+what's your name
+what's your name
+who are you
+who am I talking to
+My name is Tania and I am your virtual assistant135
+what time
+what time is it
+as long as his watch
+workout
+what date is today
+what day is today
+as we are today
+search for
+What do you want me to look for?
+That's what I found about 145
+search for location
+What is the location? 147
+goodbye
+get lost
+by tania
+Goodbye, next time151
+listen ... 152
+I apologize but I didn't understand. Please repeat 153
+The changes will take effect after the program is reopened. Do you want to restart the program? 154

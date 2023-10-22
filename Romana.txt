@@ -1,0 +1,159 @@
+ro
+
+#---------------------------------------------------------#
+
+
+hei tania
+bună dimineața tania
+bună ziua tania
+bună seara tania
+salut tania
+ianuarie
+februarie
+martie
+aprilie
+mai
+iunie
+iulie
+august
+septembrie
+octombrie
+noiembrie
+decembrie
+luni
+marți
+miercuri
+joi
+vineri
+sâmbătă
+duminică
+răs
+poimâine
+mâine
+foarte bine
+bună
+rea
+acum
+încă
+îmi iau
+așteaptă
+Cât aveți glicemia?
+Bine, aștept să o luați.
+Sunteți gata?
+da
+Și cât aveți?
+Aveți glicemia cam mică. Luați un zahăr.
+Mă bucur să aud.
+Aveți glicemia cam mare. Să văd 20 de flotări.
+Vă rog să dați o singură valoare.
+Luați-vă acum glicemia.
+Nu aveți nimic planificat în această zi.
+Aveți 
+ evenimente în această zi.
+Aveți un eveniment în această zi.
+dimineața
+dup-amiaza
+ la 
+azi
+astăzi
+urmatoarea
+viitoare
+de
+piatră
+foarfecă
+hârtie
+Ce alegeți?
+Eu aleg 
+Doriți să mai jucăm?
+nu
+Mi-a făcut plăcere.
+flotări
+abdomene
+tracțiuni
+Bun venit la programul de antrenament.
+Faceți
+Spuneți gata când ați terminat
+gata
+Doriți să continuați?
+Ați făcut:
+Este timpul pentru antrenament. Doriți să îl efectuați?
+Am înțeles
+Bună dimineața
+Bună ziua
+Bună seara
+Cu cine vorbesc?
+Ce limbă ați dori să folosiți?
+Cu ce vă pot ajuta?
+închide calculatorul
+oprește calculatorul
+închide te rog calculatorul
+Sunteți sigur că doriți să închideți calculatorul?
+mă mai gândesc
+Ok, nu voi închide calculatorul.
+La revedere, să aveți o dimineața frumoasă.
+La revedere, să aveți o zi frumoasă.
+La revedere, să aveți o seară plăcută.
+La revedere și noapte bună.
+ce am
+am planuri
+sunt ocupat
+ce planuri am
+ce program am
+Nu am putut înțelege, vă rog să repetați
+ține minte
+notează
+Ce ați vrea să notez?
+Am notat.
+închide
+oprește
+Se închide Apex-ul
+deschide
+pornește
+Se deschide Apex-ul.
+Se deschide Warframe-ul.
+numeşte-mă alt fel
+nu îmi mai spune aşa
+nu îmi mai zi aşa
+nu sunt
+nu mă mai numi
+nu mă cheamă
+numele meu nu este
+Voi ține minte
+notă
+Veți lua nota
+cu nimic
+Bine, sunt aici când aveți nevoie de mine.
+schimbă limba
+piatră foarfecă sau hârtie
+cum te simți
+Eu mă simt bine, mulțumesc de întrebare.
+cine sunt
+cum mă numesc
+cum mă cheamă
+Sunteți
+mulțumesc
+Cu plăcere
+care este numele tău
+care-i numele tău
+cine ești
+cu cine vorbesc
+Numele meu este Tania și sunt asistenta dumneavoastră virtuală
+cât e ceasul
+cât este ceasul
+cât îi ceasul
+antrenament
+în ce dată suntem azi
+ce zi e azi
+în cât suntem azi
+caută
+Ce doriți să caut?
+Asta am găsit legat de 
+caută locația
+Care este locația?
+la revedere
+dispari
+pa tania
+La revedere, pe data viitoare
+ascultă...
+îmi cer scuze dar nu am înțeles. Vă rog să repetați 
+Modificările vor lua efect după redeschiderea programului. Doriți să restartez programul?
